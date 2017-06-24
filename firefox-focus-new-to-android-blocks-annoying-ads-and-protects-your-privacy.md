@@ -1,4 +1,4 @@
-# Firefxo Focus が Android に新登場、広告をブロックしプライバシーを保護します
+# Firefox Focus が Android に新登場、広告をブロックしプライバシーを保護します
 これは [Firefox Focus New to Android, blocks annoying ads and protects your privacy](https://blog.mozilla.org/blog/2017/06/20/firefox-focus-new-to-android-blocks-annoying-ads-and-protects-your-privacy/) の抄訳です。
 - - -
 
@@ -24,7 +24,7 @@ alt="Firefox Focus for Android: The privacy browser introduction" width="480" he
 Firefox Focus の Android リリースに向け、以下の機能を追加しました:
 - 追跡広告カウンター - 面白いことに、アプリ使用中にサイトごとにブロックされた広告の数字を一覧できるカウンターがあります。
 - 追跡ブロックの無効化 - 正しく読み込まれたないサイトのために、追跡ブロックを無効化でき、素早く対処して元通りにサイトを表示できます。
-- 通知リマインダー - Focus がバックグラウンドで起動しているとき、通知を通してその存在に気づけます、また、タップするだけで簡単に閲覧履歴を消去できます。
+- 通知リマインダー - Focus がバックグラウンドで起動しているとき、通知を通してその存在に気づけます。また、タップするだけで簡単に閲覧履歴を消去できます。
 
 Android ユーザーは、Focus をデフォルトブラウザーにすることもできます。必要に応じてカスタムタブと広告のブロックを無効化できます。Focus は、モバイルウェブの利用に力を与えられるよう開発され、製品をよりよくするために新機能の紹介を続けていきます。高速でプライバシーが保護されたモバイルブラウジングを Firefox Focus で体験してください。
 
