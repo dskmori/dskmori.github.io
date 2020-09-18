@@ -4,3 +4,4 @@
 * [Firefox Android での Gmail を修正する](./fixing-broken-gmail) (the original: Fixing Gmail on Firefox Android)
 * [MDN の未来: 焦点をウェブ文書へ](./future-mdn-focus-web-docs) (the original: The Future of MDN: A Focus on Web Docs)
 * [49.99999% of a CSS width is?](./width-rounding-in-css)
+* [Firefox Send と Firefox Notes についてのアップデート](./update-on-firefox-send-and-firefox-notes) (the original: Update on Firefox Send and Firefox Notes)
