@@ -5,3 +5,4 @@
 * [MDN の未来: 焦点をウェブ文書へ](./future-mdn-focus-web-docs) (the original: The Future of MDN: A Focus on Web Docs)
 * [49.99999% of a CSS width is?](./width-rounding-in-css)
 * [Firefox Send と Firefox Notes についてのアップデート](./update-on-firefox-send-and-firefox-notes) (the original: Update on Firefox Send and Firefox Notes)
+* [MDN Web Docs ローカライズ戦略についてのアップデート](./an-update-on-mdn-web-docs-localization-strategy) (the original: An update on MDN Web Docs’ localization strategy)
